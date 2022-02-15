@@ -1,2 +1,2 @@
-# ML-Project
-all Machine Learning project is here
+# Courses Projects
+all Courses Projectsproject is here
