@@ -5,5 +5,5 @@
 ### Files 
   there are 2 files
   | 1- | kitchen.py | all codes under test and construction here|
-  | ----------- |  | ----------- |
+  | ----------- | ----------- | ----------- |
   | 2- | perceptrone.py| class simulate perceptrone learning in python|
